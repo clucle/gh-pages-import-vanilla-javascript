@@ -1,5 +1,5 @@
 function AlertHelloWorld() {
-    alert('HelloWorld');
+    alert('Hello, World!');
 }
 
 export { AlertHelloWorld };
